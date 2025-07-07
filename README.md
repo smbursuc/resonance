@@ -4,7 +4,7 @@
   Resonance is a tool for analyzing music that extracts music theory compliant and relevant features that help define the song's melody. It can be used in order to scan YouTube playlists and do feature extraction for each track found in the playlist. The end goal is mapping extracted features to musical and audible features such that it is easy to identify songs that are similar to each other
   based on the quantized musical feature. The tool can be used to analyze and find similar music.
 
-  TODO: post the paper link for the project
+  Paper link: https://drive.google.com/file/d/10GV-7F616OHoFBiL7099h-rfNx9ppIK5/view?usp=sharing
 </div>
 
 <h2>Prerequisites</h2>
